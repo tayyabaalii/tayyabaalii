@@ -16,9 +16,6 @@ Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or A
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 -->
-  
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaali1997) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabaaly1997@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tayyabaalii&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -82,7 +79,8 @@ Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or A
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaali1997) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabaaly1997@gmail.com) 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tayyabaalii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
