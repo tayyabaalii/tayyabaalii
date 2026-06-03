@@ -1,13 +1,10 @@
 # Hi 👋, I'm Tayyaba Ali
-**A passionate Full Stack Developer || Agentic AI & Automation Specialist**
+**A passionate Full Stack Developer || AI Voice Agents & Automation Specialist**
 
 Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Agentic AI and Automations
 - 🌱 **I’m currently learning:** AI/ML
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** tayyabaaly1997@gmail.com
-- 😄 **Pronouns:** Her
 - ⚡ **Fun fact:** I Love Nature 
 
 <!-- Snake Game Repo View -->
