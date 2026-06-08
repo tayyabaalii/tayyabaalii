@@ -7,6 +7,12 @@ Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or A
 - 🌱 **I’m currently learning:** AI/ML
 - ⚡ **Fun fact:** I Love Nature 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaali1997)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-eight-plum-93.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabaaly1997@gmail.com)
+
+
 <!-- Snake Game Repo View -->
 
 <!-- <div align="center">
@@ -76,10 +82,7 @@ Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.shion.dev/api?username=tayyabaalii&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tayyabaalii&theme=onedark&hide_border=false)<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaali1997)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tayyabaaly1997@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://portfolio-eight-plum-93.vercel.app/)
+
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tayyabaalii&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
