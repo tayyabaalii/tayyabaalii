@@ -4,8 +4,8 @@
 Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Agentic AI and Automations
-- 🌱 **I’m currently learning:** AI/ML
-- ⚡ **Fun fact:** I Love Nature 
+- ⚡ **I’m currently learning:** AI/ML
+- 🌱 **Fun fact:** I Love Nature 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabaali1997)
@@ -78,9 +78,11 @@ Email Me 👉 ✉️ **tayyabaaly1997@gmail.com** For Collaboration/Project or A
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 
+<!--
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=tayyabaalii&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=tayyabaalii&theme=onedark&hide_border=false)<br/>
+-->
 
 
 <!-- ### 🔝 Top Contributed Repo
